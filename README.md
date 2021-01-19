@@ -10,6 +10,7 @@
 - 👨‍💻 I will try to use Github as a portfolio for some of my projects and challenges I do. 
 - 📚 I am also interested and curious about cybersecurity and UI & UX Design.
 
+    I believe that although evolution is individual we need each other to reach that purpose.
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
