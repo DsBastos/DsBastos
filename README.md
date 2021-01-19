@@ -9,7 +9,7 @@
 - 🤝 I'm looking to collaborate on projects.
 - 👨‍💻 I will try to use Github as a portfolio for some of my projects and challenges I do. 
 - 📚 I am also interested and curious about cybersecurity and UI & UX Design.
-- 💭 I believe that while evolution is individual, we need each other to achieve this purpose.
+- 💭 I believe that even though evolution is individual, we need each other to achieve this purpose.
 
 <br>
 
