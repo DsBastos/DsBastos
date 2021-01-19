@@ -9,7 +9,8 @@
 - 🤝 I'm looking to collaborate on projects.
 - 👨‍💻 I will try to use Github as a portfolio for some of my projects and challenges I do. 
 - 📚 I am also interested and curious about cybersecurity and UI & UX Design.
-- 💭 I believe that although evolution is individual we need each other to reach that purpose.
+- 💭 I believe that while evolution is individual, we need each other to achieve this purpose.
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,7 +19,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     </a> 
     <a href="https://codeigniter.com" target="_blank"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
+        <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="25rem" height="25rem"/> 
     </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
