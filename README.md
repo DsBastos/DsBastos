@@ -6,7 +6,7 @@
 - 🎓 I am currently studying the bachelor's degree of Technology and Multimedia Design.
 - 🔭 In addition to the university, I independently seek more general knowledge in the area of ​​web development, especially the front-end. 
 - 😎 I practice what I learn through interface development challenges.
-- 🤝 Estou a procura de colaborar em projetos.
+- 🤝 I'm looking to collaborate on projects.
 - 👨‍💻 I will try to use Github as a portfolio for some of my projects and challenges I do. 
 - 📚 I am also interested and curious about cybersecurity and UI & UX Design.
 - 💭 I believe that although evolution is individual we need each other to reach that purpose.
