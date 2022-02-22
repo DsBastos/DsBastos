@@ -12,5 +12,6 @@
 - 💭 I believe that even though evolution is individual, we need each other to achieve this purpose.
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbastos&show_icons=true&locale=en&layout=compact&theme=radical" alt="dsbastos" /></p> ![image](https://user-images.githubusercontent.com/29290002/155051196-2601e473-5668-4b87-8055-c9d360a9baab.png)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbastos&show_icons=true&locale=en&layout=compact&theme=radical" alt="dsbastos" /></p> ![Alt Text](https://tenor.com/view/anime-coding-dagashi-kashi-java-script-gif-12104185)
+
 
