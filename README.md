@@ -13,7 +13,7 @@
 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbastos&show_icons=true&locale=en&layout=compact&theme=radical" alt="dsbastos" />
-<img src="https://c.tenor.com/rS-u5lIUQWsAAAAC/anime-coding.gif" alt="dsbastos" width="40" /></p> 
+<img src="https://c.tenor.com/rS-u5lIUQWsAAAAC/anime-coding.gif" alt="dsbastos" width="400" /></p> 
 
 
 
