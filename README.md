@@ -1,6 +1,10 @@
 
 <h1 align="center">Daniel Bastos</h1>
-<a align="center" href="https://www.linkedin.com/in/daniel-bastos98/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dsbastos" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-bastos98/">
+    <img alt="made by Daniel Bastos" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 <h3 align="center">Passionate about developing and communicating what is beautiful on people's screens</h3>
 <br>
