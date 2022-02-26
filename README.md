@@ -1,6 +1,6 @@
 
 <h1 align="center">Daniel Bastos</h1>
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)
+<a align="center" href="https://www.linkedin.com/in/daniel-bastos98/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="dsbastos" /></a>
 
 <h3 align="center">Passionate about developing and communicating what is beautiful on people's screens</h3>
 <br>
