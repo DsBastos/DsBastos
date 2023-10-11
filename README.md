@@ -9,8 +9,6 @@
 <h3 align="center">Passionate about developing and communicating what is beautiful on people's screens</h3>
 <br>
 
-- 🎓 I am currently studying the bachelor's degree of Technology and Multimedia Design.
-- 🔭 In addition to the university, I independently seek more general knowledge in the area of ​​web development, especially the front-end. 
 - 😎 I practice what I learn through interface development challenges.
 - 🤝 I'm looking to collaborate on projects.
 - 👨‍💻 I will use Github as a portfolio for some of my projects and challenges I do. 
