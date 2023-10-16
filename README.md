@@ -16,7 +16,7 @@
 - 💭 I believe that even though evolution is individual, we need each other to achieve this purpose.
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbastos&show_icons=true&locale=en&layout=compact&theme=radical" alt="dsbastos"  width="auto" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsbastos&show_icons=true&locale=en&layout=compact&theme=radical" alt="dsbastos"  width="400" />
 <img align="right" src="https://c.tenor.com/rS-u5lIUQWsAAAAC/anime-coding.gif" alt="dsbastos" width="400" /></p> 
 
 
